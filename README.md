@@ -77,7 +77,7 @@ mystery-me/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mystery-me.git
+git clone https://github.com/Amancha-chandana1222/mystery-me.git
 ```
 
 ### 2. Navigate to the project directory
