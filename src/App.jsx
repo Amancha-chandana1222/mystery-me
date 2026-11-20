@@ -528,7 +528,7 @@ function App() {
 
               <article className="level-two-card">
                 <span className="card-label">Future Target</span>
-                <p className="level-two-copy">GATE 2027 and ISRO</p>
+                <p className="level-two-copy">Become a successful Software Engineer, contribute to environmental protection, and achieve financial independence. 🚀</p>
               </article>
             </div>
             </div>
