@@ -139,4 +139,4 @@ This repository contains the source code for the project. Deployment is not curr
 
 ## 🔒 Privacy Notice
 
-The website contains personal images and a downloadable resume. Review these files before making the repository public.
+The website contains personal images and a downloadable resume.
